@@ -1,0 +1,11 @@
+Partners: Jason Heron, Brittany Arthur
+Submitter: Jason Heron
+
+
+Notes: We have infinite pipes!
+
+Try out: ls | grep ".c" | wc
+this counts all c files in the current directory.
+
+
+Hope your grading is going well.
