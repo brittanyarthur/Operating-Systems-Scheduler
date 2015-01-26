@@ -1,6 +1,9 @@
 Partners: Jason Heron, Brittany Arthur
 Submitter: Jason Heron
 
+In order to compile our code, just type "make"
+To run the shell type "./a.out"
+In order to use, just type the command!
 
 Notes: We have infinite pipes!
 
